@@ -1,2 +1,10 @@
 # Rush02
-For Rush02 of pool school 21
+---
+Командный проект "Rush"
+Нужно было реализовать:
+* Словарь переводящий цифровую запись в словесную
+* При отрицательном числе вывести "Error"
+* Числа до 1000000000000000000000000000000000000
+![Example](https://github.com/KreoManser/Rush02/blob/master/Example.png)
+---
+Completed!
